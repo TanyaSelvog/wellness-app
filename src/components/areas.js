@@ -3,10 +3,10 @@ import React, { Component } from 'react'
 export default class areas extends Component {
     render() {
         return (
-            <ul style={{display: 'flex', listStyle: 'none', justifyContent: 'space-around'}}>
-          <li>Areas</li>
+            
+          <h1 id="areas">Areas</h1>
         
-            </ul>
+            
         )
     }
 }

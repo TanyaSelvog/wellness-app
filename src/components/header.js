@@ -9,7 +9,7 @@ export default class header extends Component {
             <header className="App-header">
               <Link to="areas" spy={true} smooth={true}>
                 <img src={logo} className="App-logo" alt="logo"></img>
-              <h3 className="Box-title d-flex flex-justify-center">Garden of Wellness</h3></Link>
+              <h1 className="Box-title d-flex flex-justify-center">Garden of Wellness</h1></Link>
             </header>
           </div>
         )

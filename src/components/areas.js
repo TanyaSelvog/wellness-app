@@ -4,7 +4,8 @@ export default class areas extends Component {
     render() {
         return (
           <div className="dimensions">
-          <h2 id="areas">Areas of Wellness</h2>
+          <h2 id="areas" className="Box-title d-flex flex-justify-center">Areas of Wellness</h2>
+          
           <ul>
             <li>Financial</li>
             <li>Physical</li>
@@ -16,6 +17,7 @@ export default class areas extends Component {
             <li>Environmetal</li>
           </ul>
           </div>
+          
             
         )
     }

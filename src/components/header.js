@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import logo from '../010-love.svg';
+import logo from '../images/010-love.svg';
 import {Link} from 'react-scroll';
 
 export default class header extends Component {

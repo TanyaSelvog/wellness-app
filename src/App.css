@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #181a1f;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -27,6 +27,19 @@
 .App-link {
   color: #61dafb;
 }
+
+/*Areas of Wellness section*/
+
+h1, h2 {
+  font-size: calc(10px + 4vmin);
+}
+
+.dimensions {
+  background-color: #1c212c;
+  display: flex;
+  color: white;
+}
+
 /*
 @keyframes App-logo-spin {
   from {

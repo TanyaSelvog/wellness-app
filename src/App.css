@@ -1,3 +1,4 @@
+
 .App {
   text-align: center;
 }
@@ -32,13 +33,20 @@
 
 h1, h2 {
   font-size: calc(10px + 4vmin);
+
 }
 
-.dimensions {
+.areas {
   background-color: #1c212c;
-  display: flex;
   color: white;
 }
+
+.wellness {
+  display: flex;
+
+}
+
+
 
 /*
 @keyframes App-logo-spin {

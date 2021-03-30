@@ -15,7 +15,6 @@
 }
 
 .App-header {
-  background-color: #181a1f;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -37,7 +36,6 @@ h1, h2 {
 }
 
 .areas {
-  background-color: #1c212c;
   color: white;
 }
 
@@ -46,7 +44,9 @@ h1, h2 {
 
 }
 
-
+body {
+  background-color: rgb(29, 26, 20);
+}
 
 /*
 @keyframes App-logo-spin {

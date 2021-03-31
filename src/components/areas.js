@@ -17,7 +17,7 @@ export default class areas extends Component {
               <li>Environmetal</li>
               </ul>
               </div>
-          
+           
           </div>
           
           
@@ -25,3 +25,4 @@ export default class areas extends Component {
         )
     }
 }
+

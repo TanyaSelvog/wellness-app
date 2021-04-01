@@ -1,7 +1,6 @@
 
 import Header from './components/header';
 import Areas from './components/areas';
-import Example from './components/example';
 import './App.css';
 
 function App() {
@@ -9,7 +8,6 @@ function App() {
     <>
     <Header/>
     <Areas/>
-    <Example/>
     </>
   );
 }

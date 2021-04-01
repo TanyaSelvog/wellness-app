@@ -43,7 +43,9 @@ h1, h2 {
   display: flex;
 
 }
-
+.example {
+  color: rgb(110, 197, 157);
+}
 body {
   background-color: rgb(29, 26, 20);
 }

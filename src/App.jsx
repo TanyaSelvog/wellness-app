@@ -1,6 +1,7 @@
 
 import Header from './components/header';
 import Areas from './components/areas';
+import Garden from './components/garden';
 import './App.css';
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
     <>
     <Header/>
     <Areas/>
+    <Garden/>
     </>
   );
 }

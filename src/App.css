@@ -54,7 +54,9 @@ h1, h2 {
 body {
   background-color: rgb(29, 26, 20);
 }
-
+.grass {
+  border: 10px solid rgb(118, 177, 118);
+}
 /*
 @keyframes App-logo-spin {
   from {

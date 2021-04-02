@@ -1,4 +1,12 @@
 import React, { Component } from 'react';
+import blue from '../images/blue.svg';
+import lily from '../images/lily.svg';
+import pink from '../images/pink.svg';
+import red from '../images/red.svg';
+import sunflower from '../images/sunflower.svg';
+import tulip from '../images/tulip.svg';
+import white from '../images/white.svg';
+import yellow from '../images/yellow.svg';
 import {
     Accordion,
     AccordionItem,
@@ -25,7 +33,7 @@ export default class areas extends Component {
                         <li>Start a savings account & add small payments if possible</li>
                         <li>Write a list before you go shopping</li>
                     </ul>
-                        
+                    <img src={blue}></img>       
                     
                 </AccordionItemPanel>
             </AccordionItem>
@@ -36,6 +44,7 @@ export default class areas extends Component {
                     </AccordionItemButton>
                 </AccordionItemHeading>
                 <AccordionItemPanel>
+                <img src={lily}></img>  
                 <ul>
                         <li>Volunteer in the community </li>
                         <li>Keep in touch with supportive friends and family</li>
@@ -49,6 +58,7 @@ export default class areas extends Component {
                     </AccordionItemButton>
                 </AccordionItemHeading>
                 <AccordionItemPanel>
+                <img src={pink}></img>  
                 <ul>
                         <li>Watch a documentary</li>
                         <li>Read for fun</li>
@@ -62,6 +72,7 @@ export default class areas extends Component {
                     </AccordionItemButton>
                 </AccordionItemHeading>
                 <AccordionItemPanel>
+                <img src={red}></img>  
                 <ul>
                         <li>Reflect on what you are doing and be open to change</li>
                         <li>Practice open communication and proper conflict management </li>
@@ -75,6 +86,7 @@ export default class areas extends Component {
                     </AccordionItemButton>
                 </AccordionItemHeading>
                 <AccordionItemPanel>
+                <img src={sunflower}></img>  
                 <ul>
                         <li>Practice mindfulness</li>
                         <li>Look for a religious faith that aligns with your values</li>
@@ -88,6 +100,7 @@ export default class areas extends Component {
                     </AccordionItemButton>
                 </AccordionItemHeading>
                 <AccordionItemPanel>
+                <img src={tulip}></img>  
                 <ul>
                         <li>Practice gratitude</li>
                         <li>Share thoughts and feelings with someone you trust</li>
@@ -101,6 +114,7 @@ export default class areas extends Component {
                     </AccordionItemButton>
                 </AccordionItemHeading>
                 <AccordionItemPanel>
+                <img src={white}></img>  
                 <ul>
                         <li>Use reusable bags</li>
                         <li>Recycle and compost</li>
@@ -114,6 +128,7 @@ export default class areas extends Component {
                     </AccordionItemButton>
                 </AccordionItemHeading>
                 <AccordionItemPanel>
+                <img src={yellow}></img>  
                 <ul>
                         <li>Eat foods that make you feel good</li>
                         <li>Maintain a regular sleep schedule</li>

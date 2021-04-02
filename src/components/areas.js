@@ -29,12 +29,11 @@ export default class areas extends Component {
                     </AccordionItemButton>
                 </AccordionItemHeading>
                 <AccordionItemPanel>
+                <img src={blue} alt="blue flower"></img>
                     <ul>
                         <li>Start a savings account & add small payments if possible</li>
                         <li>Write a list before you go shopping</li>
                     </ul>
-                    <img src={blue}></img>       
-                    
                 </AccordionItemPanel>
             </AccordionItem>
             <AccordionItem>
@@ -44,7 +43,7 @@ export default class areas extends Component {
                     </AccordionItemButton>
                 </AccordionItemHeading>
                 <AccordionItemPanel>
-                <img src={lily}></img>  
+                <img src={lily} alt="lily"></img>  
                 <ul>
                         <li>Volunteer in the community </li>
                         <li>Keep in touch with supportive friends and family</li>
@@ -58,7 +57,7 @@ export default class areas extends Component {
                     </AccordionItemButton>
                 </AccordionItemHeading>
                 <AccordionItemPanel>
-                <img src={pink}></img>  
+                <img src={pink} alt="pink flower"></img>  
                 <ul>
                         <li>Watch a documentary</li>
                         <li>Read for fun</li>
@@ -72,7 +71,7 @@ export default class areas extends Component {
                     </AccordionItemButton>
                 </AccordionItemHeading>
                 <AccordionItemPanel>
-                <img src={red}></img>  
+                <img src={red} alt="red flower"></img>  
                 <ul>
                         <li>Reflect on what you are doing and be open to change</li>
                         <li>Practice open communication and proper conflict management </li>
@@ -86,7 +85,7 @@ export default class areas extends Component {
                     </AccordionItemButton>
                 </AccordionItemHeading>
                 <AccordionItemPanel>
-                <img src={sunflower}></img>  
+                <img src={sunflower} alt="sunflower"></img>  
                 <ul>
                         <li>Practice mindfulness</li>
                         <li>Look for a religious faith that aligns with your values</li>
@@ -100,7 +99,7 @@ export default class areas extends Component {
                     </AccordionItemButton>
                 </AccordionItemHeading>
                 <AccordionItemPanel>
-                <img src={tulip}></img>  
+                <img src={tulip} alt="tulip"></img>  
                 <ul>
                         <li>Practice gratitude</li>
                         <li>Share thoughts and feelings with someone you trust</li>
@@ -114,7 +113,7 @@ export default class areas extends Component {
                     </AccordionItemButton>
                 </AccordionItemHeading>
                 <AccordionItemPanel>
-                <img src={white}></img>  
+                <img src={white} alt="white flower"></img>  
                 <ul>
                         <li>Use reusable bags</li>
                         <li>Recycle and compost</li>
@@ -128,7 +127,7 @@ export default class areas extends Component {
                     </AccordionItemButton>
                 </AccordionItemHeading>
                 <AccordionItemPanel>
-                <img src={yellow}></img>  
+                <img src={yellow} alt="yellow flower"></img>  
                 <ul>
                         <li>Eat foods that make you feel good</li>
                         <li>Maintain a regular sleep schedule</li>

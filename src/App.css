@@ -39,6 +39,11 @@ h1, h2 {
   color: white;
 }
 
+.areas img {
+  height: 20vmin;
+  
+}
+
 .wellness {
   display: flex;
 
